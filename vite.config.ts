@@ -28,7 +28,7 @@ export default defineConfig({
                 },
             },
         }),
-        vuetify({ autoImport: true }), //agrege el vuetify
+        vuetify({ autoImport: true }), //agrege el vuetify, probando pull
         wayfinder({
             formVariants: true,
         }),
